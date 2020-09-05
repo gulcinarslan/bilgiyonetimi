@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{66:function(i){i.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"bilgi-yonetimi","name":"bilgi y\xf6netimi","count":1,"permalink":"/blog/tags/bilgi-yonetimi"}')}}]);
