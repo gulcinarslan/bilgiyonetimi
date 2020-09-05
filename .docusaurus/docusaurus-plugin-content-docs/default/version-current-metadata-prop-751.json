@@ -1,0 +1,49 @@
+{
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Bilgi Teknolojilerine Giriş",
+            "href": "/docs/"
+          },
+          {
+            "type": "link",
+            "label": "İşletim Sistemleri",
+            "href": "/docs/doc2"
+          },
+          {
+            "type": "link",
+            "label": "PROGRAMLAMA TEMELLERİ",
+            "href": "/docs/doc3"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "İŞLETME BİLİMLERİNE GİRİŞ",
+            "href": "/docs/mdx"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/": "someSidebar",
+    "/docs/doc2": "someSidebar",
+    "/docs/doc3": "someSidebar",
+    "/docs/mdx": "someSidebar"
+  }
+}

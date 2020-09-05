@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc2",
+  "id": "doc2",
+  "isDocsHomePage": false,
+  "title": "İşletim Sistemleri",
+  "description": "İşletim Sistemlerine Giriş Link. Diğer sayfaya link LinkDiğer.",
+  "source": "@site/docs\\doc2.md",
+  "slug": "/doc2",
+  "permalink": "/docs/doc2",
+  "editUrl": "https://github.com/gulcinofluoglu/blog/edit/master/website/docs/doc2.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Bilgi Teknolojilerine Giriş",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "PROGRAMLAMA TEMELLERİ",
+    "permalink": "/docs/doc3"
+  }
+}

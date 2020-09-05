@@ -1,0 +1,17 @@
+{
+  "unversionedId": "mdx",
+  "id": "mdx",
+  "isDocsHomePage": false,
+  "title": "İŞLETME BİLİMLERİNE GİRİŞ",
+  "description": "MDX.",
+  "source": "@site/docs\\mdx.md",
+  "slug": "/mdx",
+  "permalink": "/docs/mdx",
+  "editUrl": "https://github.com/gulcinofluoglu/blog/edit/master/website/docs/mdx.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "PROGRAMLAMA TEMELLERİ",
+    "permalink": "/docs/doc3"
+  }
+}

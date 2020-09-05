@@ -1,0 +1,18 @@
+{
+  "unversionedId": "doc1",
+  "id": "doc1",
+  "isDocsHomePage": false,
+  "title": "Bilgi Teknolojilerine Giriş",
+  "description": "Bilgi Teknolojilerine Giriş",
+  "source": "@site/docs\\doc1.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/gulcinofluoglu/blog/edit/master/website/docs/doc1.md",
+  "version": "current",
+  "sidebar_label": "Bilgi Teknolojilerine Giriş",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "İşletim Sistemleri",
+    "permalink": "/docs/doc2"
+  }
+}

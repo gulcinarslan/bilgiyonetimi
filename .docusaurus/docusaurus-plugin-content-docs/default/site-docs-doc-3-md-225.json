@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc3",
+  "id": "doc3",
+  "isDocsHomePage": false,
+  "title": "PROGRAMLAMA TEMELLERİ",
+  "description": "Ders notları",
+  "source": "@site/docs\\doc3.md",
+  "slug": "/doc3",
+  "permalink": "/docs/doc3",
+  "editUrl": "https://github.com/gulcinofluoglu/blog/edit/master/website/docs/doc3.md",
+  "version": "current",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "İşletim Sistemleri",
+    "permalink": "/docs/doc2"
+  },
+  "next": {
+    "title": "İŞLETME BİLİMLERİNE GİRİŞ",
+    "permalink": "/docs/mdx"
+  }
+}
