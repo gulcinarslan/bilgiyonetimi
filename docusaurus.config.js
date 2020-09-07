@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://atabilgiyonetimi.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.png',
   organizationName: 'gulcinofluoglu', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
